@@ -61,3 +61,19 @@
 | **Express.js** |     ✅ ⭐⭐⭐    |     ✅ ⭐⭐     |      ⚠ ⭐     |
 | **Remix**      |     ✅ ⭐⭐     |     ✅ ⭐⭐⭐    |     ✅ ⭐⭐⭐    |
 | **Astro**      |     ✅ ⭐⭐⭐    |     ✅ ⭐⭐     |       ❌      |
+
+
+# Exercice 4 
+
+| Critère                    | Next.js                                                                                          | Nuxt.js                                                                           |
+| -------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| **Écosystème**             | Basé sur l’écosystème React, très riche et largement adopté dans l’industrie, soutenu par Vercel | Basé sur l’écosystème Vue, plus simple et cohérent, soutenu par la communauté Vue |
+| **Type de framework**      | Framework full-stack orienté React avec rendu hybride                                            | Framework full-stack orienté Vue avec rendu hybride                               |
+| **Langage / UI**           | JavaScript / TypeScript avec React (JSX, Server Components)                                      | JavaScript / TypeScript avec Vue (Single File Components)                         |
+| **SSR**                    | Support natif du rendu côté serveur, configurable par page ou composant                          | Support natif du rendu côté serveur, très bien intégré                            |
+| **SSG**                    | Génération statique au build, pages totalement statiques possibles                               | Génération statique complète via Nuxt generate                                    |
+| **ISR**                    | Régénération incrémentale des pages après le build, très mature                                  | Régénération incrémentale disponible dans Nuxt 3                                  |
+| **Backend intégré**        | API Routes et Server Actions permettant de créer un backend léger                                | Nitro Server permettant routes API et logique serveur                             |
+| **Routing**                | Basé sur le système de fichiers, App Router ou Pages Router                                      | Basé sur le système de fichiers, très intuitif                                    |
+| **Courbe d’apprentissage** | Plus élevée, surtout avec App Router et Server Components                                        | Plus douce, particulièrement pour les développeurs Vue                            |
+| **Déploiement**            | Optimisé pour Vercel, fonctionne aussi sur Node, Docker, Edge                                    | Compatible Node, Docker, serverless, plateformes cloud                            |
