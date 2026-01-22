@@ -1,4 +1,5 @@
 
+#Exercice 1
 ✔ = support natif
 ⚠ = support partiel / via configuration
 ✖ = non supporté 
