@@ -39,3 +39,25 @@
 | **Express.js** |     ❌    |  ✅ ⭐⭐⭐  |      ❌     |
 | **Remix**      |   ✅ ⭐⭐⭐  |   ✅ ⭐⭐  |    ✅ ⭐⭐⭐   |
 | **Astro**      |   ✅ ⭐⭐   |    ❌    |     ⚠ ⭐    |
+
+
+# Exercice 3 
+
+⭐⭐⭐ = très adapté / choix recommandé
+⭐⭐ = adapté / viable
+⭐ = possible mais non optimal
+✅ = oui (vert)
+❌ = non (rouge)
+
+| Framework      | Petit projet | Projet moyen | Grand projet |
+| -------------- | :----------: | :----------: | :----------: |
+| **Next.js**    |     ✅ ⭐⭐     |     ✅ ⭐⭐⭐    |     ✅ ⭐⭐⭐    |
+| **Nuxt.js**    |     ✅ ⭐⭐     |     ✅ ⭐⭐⭐    |     ✅ ⭐⭐⭐    |
+| **NestJS**     |      ⚠ ⭐     |     ✅ ⭐⭐     |     ✅ ⭐⭐⭐    |
+| **React**      |     ✅ ⭐⭐     |     ✅ ⭐⭐⭐    |     ⚠ ⭐⭐     |
+| **Angular**    |       ❌      |      ⚠ ⭐     |     ✅ ⭐⭐⭐    |
+| **Vue.js**     |     ✅ ⭐⭐⭐    |     ✅ ⭐⭐     |      ⚠ ⭐     |
+| **Svelte**     |     ✅ ⭐⭐⭐    |     ✅ ⭐⭐     |      ⚠ ⭐     |
+| **Express.js** |     ✅ ⭐⭐⭐    |     ✅ ⭐⭐     |      ⚠ ⭐     |
+| **Remix**      |     ✅ ⭐⭐     |     ✅ ⭐⭐⭐    |     ✅ ⭐⭐⭐    |
+| **Astro**      |     ✅ ⭐⭐⭐    |     ✅ ⭐⭐     |       ❌      |
